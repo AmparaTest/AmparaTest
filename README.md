@@ -7,5 +7,5 @@
  - **Game Kit**
 	 - iOS and macOS application for easily creating and sharing games.
  - **CatKit**
-	 - Enumeration and array based scripting.
+	 - Enumeration and array based scripting for Swift.
  - Private collaborations
