@@ -3,7 +3,7 @@
 #### Current Projects:
  - **Newt**
 	 - Progressively teach coding to students with ClassKit integration
-	 - Powered by a powered up version of the CatKit dependency
+	 - Supported by a powered-up version of the CatKit dependency
  - **Game Kit**
 	 - iOS and macOS application for easily creating and sharing games.
  - **CatKit**
