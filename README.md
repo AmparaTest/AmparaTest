@@ -1,16 +1,11 @@
-### Hi there 👋
+### Ampara
 
-<!--
-**AmparaTest/AmparaTest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Projects:
+ - **Newt**
+	 - Block-based scripting for teachers with ClassKit integration
+	 - Powered by a powered up version of the CatKit dependency
+ - **Game Kit**
+	 - iOS and macOS application for easily creating and sharing games.
+ - **CatKit**
+	 - Enumeration and array based scripting.
+ - Private collaborations
